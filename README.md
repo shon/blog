@@ -1,7 +1,6 @@
 # shon.github.io
 
 This repository contains the code and content of my personal website:
-
 It is based on [Mark van Lent's](http://www.vlent.nl). 
 This incarnation of the site is built with 
 [Acrylamid](https://github.com/posativ/acrylamid/) and

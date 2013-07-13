@@ -1,11 +1,14 @@
 /* TEAM */
 
-  Author:   Mark van Lent
-  Twitter:  @mvlent
-  Location: Rotterdam area, The Netherlands
-
+  Author:   Shekhar Tiwatne
+  Twitter:  @shon_
+  Location: Pune, India
 
 /* THANKS */
+
+  To:   Mark van Lent
+  For:  This blog code and excellent layout
+  URL:  http://www.vlent.nl/
 
   To:   posativ
   For:  Creating Acrylamid and actively developing it.
@@ -22,7 +25,7 @@
 
 /* SITE */
 
-  URL:         http://www.vlent.nl/
+  URL:         http://shon.github.io/
   Standards:   HTML5, CSS3, Atom 1.0
   Language:    English
   Services:    TypeKit fonts, Disqus comments
