@@ -10,17 +10,21 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-SITENAME = 'Practicing web development'
-TAGLINE = "Mark van Lent’s weblog"
-WWW_ROOT = 'http://www.vlent.nl'
+SITENAME = 'ɹ ɐ ɥ ʞ ǝ ɥ s '
+TAGLINE = "Shekhar’s weblog"
+WWW_ROOT = 'http://shon.github.io'
 
-AUTHOR = 'Mark van Lent'
-EMAIL = 'mark@vlent.nl'
+AUTHOR = 'Shekhar Tiwane'
+EMAIL = 'pythonic@gmail.com'
 
-FILTERS = ['markdown+headerid+delins+def_list', 'typography', 'h1']
+METASTYLE = "native"
+FILTERS = ['reStructuredText', 'typography', 'h1']
 DATE_FORMAT = '%Y-%m-%d %H:%M'
-DISQUS_SHORTNAME = 'vlent'
+DISQUS_SITENAME = 'shon-blog'
 SUMMARIZE_LINK = '<span>&#8230; <a href="%s" class="continue">Continue reading</a></span>'
+
+#GITHUB_URL = 'http://github.com/username/username.github.com'
+TWITTER_USERNAME = 'shon_'
 
 VIEWS = {
     # Article indexes
